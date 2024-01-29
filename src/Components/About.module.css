@@ -1,0 +1,17 @@
+/* About.module.css */
+.container {
+  padding: 20px;
+  background-color: #88dc73;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+  color: #333;
+}
+
+.container p {
+  color: #666;
+}
